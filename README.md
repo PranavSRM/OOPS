@@ -1,0 +1,5 @@
+-- This repository is to explain about Object Oriented Programming System (OOPS) concepts and its components such as Encapsulation, Inheritence, Abstraction, Modularisation 
+-- and also about Overloading and Overriding concepts in C++ programming language.
+--
+--
+--
